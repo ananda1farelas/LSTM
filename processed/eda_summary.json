@@ -1,0 +1,16 @@
+{
+  "total_baris_awal": 100000,
+  "total_baris_setelah_cleaning": 53502,
+  "distribusi_label": {
+    "Positif": 34442,
+    "Negatif": 16522,
+    "Netral": 2538
+  },
+  "rata_rata_panjang_teks_kata": 10.97,
+  "kolom_output": [
+    "text",
+    "label",
+    "label_name",
+    "rating"
+  ]
+}
