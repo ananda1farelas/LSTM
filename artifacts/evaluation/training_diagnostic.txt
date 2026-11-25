@@ -1,0 +1,18 @@
+ANALISIS SINGKAT TRAINING DAN VALIDATION
+================================================
+Jumlah epoch yang tercatat: 6
+Epoch dengan validation loss terendah: 3
+Validation loss terendah: 1.0946
+Training accuracy pada epoch tersebut: 0.1982
+Validation accuracy pada epoch tersebut: 0.6438
+Validation accuracy tertinggi: 0.6438 (epoch 3)
+Training accuracy pada epoch terakhir: 0.1828
+Validation accuracy pada epoch terakhir: 0.0475
+Training loss pada epoch terakhir: 1.0987
+Validation loss pada epoch terakhir: 1.0994
+Baseline accuracy jika selalu memilih kelas mayoritas pada test set: 0.6438
+Acuan loss untuk prediksi acak 3 kelas (ln 3): 1.0986
+
+Interpretasi awal:
+Ada indikasi overfitting: performa training lebih tinggi daripada validation dan validation loss lebih besar. Periksa gap antarkurva dan pertimbangkan regularisasi, dropout, atau early stopping.
+Catatan: diagnosis ini bersifat indikatif, bukan kesimpulan final.

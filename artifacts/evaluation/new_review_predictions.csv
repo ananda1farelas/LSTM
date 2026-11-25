@@ -1,0 +1,6 @@
+﻿review_asli,review_setelah_preprocessing,predicted_label,predicted_sentiment,confidence,probability_negative,probability_neutral,probability_positive
+"Aplikasi Grab sangat membantu, driver ramah dan perjalanan nyaman.","aplikasi grab sangat membantu, pengemudi ramah dan perjalanan nyaman.",2,Positif,0.33979738,0.32398027,0.33622232,0.33979738
+"Pesanan saya terlambat, driver sulit dihubungi dan pelayanan buruk.","pesanan saya terlambat, pengemudi sulit dihubungi dan pelayanan buruk.",2,Positif,0.33979738,0.32398027,0.33622232,0.33979738
+"Aplikasinya biasa saja, kadang lancar kadang lambat.","aplikasinya biasa saja, kadang lancar kadang lambat.",2,Positif,0.33979738,0.32398027,0.33622232,0.33979738
+Promo menarik dan proses pemesanan mudah sekali.,promo menarik dan proses pemesanan mudah sekali.,2,Positif,0.33979738,0.32398027,0.33622232,0.33979738
+"Saldo terpotong tetapi pesanan dibatalkan, sangat mengecewakan.","saldo terpotong tetapi pesanan dibatalkan, sangat mengecewakan.",2,Positif,0.33979738,0.32398027,0.33622232,0.33979738

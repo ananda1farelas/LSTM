@@ -1,0 +1,20 @@
+{
+    "test_size": 8026,
+    "accuracy": 0.6437827062048342,
+    "precision_macro": 0.21475477971737322,
+    "recall_macro": 0.3333333333333333,
+    "f1_macro": 0.2612168549834433,
+    "precision_weighted": 0.41476623977062077,
+    "recall_weighted": 0.6437827062048342,
+    "f1_weighted": 0.5045006814226707,
+    "actual_distribution": {
+        "Negatif": 2478,
+        "Netral": 381,
+        "Positif": 5167
+    },
+    "predicted_distribution": {
+        "Netral": 6,
+        "Positif": 8020
+    },
+    "misclassified_count": 2859
+}
