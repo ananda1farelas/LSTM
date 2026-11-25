@@ -1,0 +1,18 @@
+{
+    "random_seed": 42,
+    "total_data": 53502,
+    "training_data": 37450,
+    "validation_data": 8026,
+    "testing_data": 8026,
+    "max_words": 20000,
+    "vocab_size": 20000,
+    "max_len": 100,
+    "embedding_dim": 128,
+    "epochs_max": 15,
+    "batch_size": 64,
+    "label_mapping": {
+        "0": "Negatif",
+        "1": "Netral",
+        "2": "Positif"
+    }
+}

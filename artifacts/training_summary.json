@@ -1,0 +1,10 @@
+{
+    "best_epoch_based_on_val_loss": 3,
+    "validation_loss": 1.0946168899536133,
+    "validation_accuracy": 0.6437827348709106,
+    "model_path": "artifacts\\model_stacked_lstm.keras",
+    "tokenizer_path": "artifacts\\tokenizer.json",
+    "testing_features": "artifacts/X_test.npy",
+    "testing_labels": "artifacts/y_test.npy",
+    "testing_csv": "artifacts/data_test.csv"
+}
